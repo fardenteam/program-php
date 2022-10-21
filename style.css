@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: #feffff;
+}
+
+.input-nilai {
+    padding: 20px;
+    top: 20%;
+    left: 20%;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.inputan input[type="number"] {
+    background: none;
+    width: 200px;
+    height: 10px;
+    padding: 14px;
+    outline: none;
+    border: 1px solid black;
+}
+
+.inputan input[type="submit"] {
+    background: none;
+    border: 1px solid black;
+    color: #818181;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    margin-left: 15px;
+}
+
+.hasil {
+    margin-top: 1rem;
+    line-height: 2rem;
+}
